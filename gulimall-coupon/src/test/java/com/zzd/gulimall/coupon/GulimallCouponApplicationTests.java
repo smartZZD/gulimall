@@ -8,6 +8,8 @@ class GulimallCouponApplicationTests {
 
     @Test
     void contextLoads() {
+
+        System.out.println("hello");
     }
 
 }

@@ -21,5 +21,7 @@
         <module>gulimall-member</module>
         <module>gulimall-ware</module>
         <module>gulimall-order</module>
+        <module>gulimall-common</module>
+        <module>renren-fast</module>
     </modules>
 </project>
