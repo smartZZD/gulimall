@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://121.199.9.8:3306/gulimall_product
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+
+server:
+  port: 10000
